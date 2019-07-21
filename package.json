@@ -7,7 +7,7 @@
   "author": "FilunK ",
   "license": "IDPL",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "@aleung/gitbook": "^3.2.7"
   },
   "scripts": {
     "init": " ./node_modules/.bin/gitbook init",
