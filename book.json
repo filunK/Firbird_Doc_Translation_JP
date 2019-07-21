@@ -2,6 +2,7 @@
     "plugins": [
         "-lunr", 
         "-search", 
-        "search-pro-kui"
+        "search-pro-kui",
+        "expand-active-chapter"
     ]
 }

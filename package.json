@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/filunK/Firbird_Doc_Translation_JP.git",
   "author": "FilunK ",
-  "license": "MIT",
+  "license": "IDPL",
   "dependencies": {
     "gitbook-cli": "^2.3.2"
   },
