@@ -3,6 +3,16 @@
         "-lunr", 
         "-search", 
         "search-pro-kui",
-        "expand-active-chapter"
-    ]
+        "expand-active-chapter",
+        "japanese-support",
+        "git-author"
+    ],
+    "pluginConfig": {
+        "git-author":{
+            "position": "bottom",
+            "modifyTpl": "最終更新： {user} {timeStamp}",
+            "createTpl": "作成： {user} {timeStamp}",
+            "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
 }
