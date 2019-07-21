@@ -1,0 +1,17 @@
+{
+  "name": "firbird_doc_translation_jp",
+  "version": "1.0.0",
+  "description": "Japanese translation of Firebird DBMS documentations",
+  "main": "index.js",
+  "repository": "https://github.com/filunK/Firbird_Doc_Translation_JP.git",
+  "author": "FilunK ",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "init": " ./node_modules/.bin/gitbook init",
+    "serve": " ./node_modules/.bin/gitbook serve",
+    "build": " ./node_modules/.bin/gitbook build"
+  }
+}
