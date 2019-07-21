@@ -6,7 +6,7 @@
 
 ----
 
-なお、本ドキュメントの作成には[gitbook-cli](https://www.npmjs.com/package/gitbook-cli)を使用しています。GitBook自体はSaasに注力するとのことで、このcliはほとんどメンテナンスされていませんが、Markdownとnodeを使ってサクサクドキュメントを書こうとしたとき、これが一番使いやすいです。
+なお、本ドキュメントの作成には[gitbook-cli](https://www.npmjs.com/package/gitbook-cli)をフォークした[@aleung/gitbook](https://www.npmjs.com/package/@aleung/gitbook)を使用しています。GitBook自体はSaasに注力するとのことで、``gitbook-cli``はメンテナンスされていないため、これをなんとかしようとしたのが``@aleung/gitbook``です（まあこれでも、脆弱性は残っていますが）。Markdownとnodeを使ってサクサクドキュメントを書こうとしたとき、これが一番使いやすいです。
 
 リポジトリからクローンした後は、以下の手順でマニュアルを参照できます。
 
